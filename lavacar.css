@@ -65,3 +65,7 @@ nav a:hover{
 .produtos-descricao{
     font-size: 18px;
 }
+
+.produtos li:active{
+    font-size: 40px;
+}
