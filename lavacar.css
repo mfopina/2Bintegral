@@ -74,3 +74,8 @@ nav a:hover{
     font-weight: bold;
     margin-top: 10px;
 }
+footer{
+    padding: 0px;
+    text-align: center;
+    background: black;
+}
