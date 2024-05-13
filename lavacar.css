@@ -79,3 +79,8 @@ footer{
     text-align: center;
     background: black;
 }
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 20px;
+}
